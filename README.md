@@ -1,6 +1,6 @@
 # VIOLENT CRIMES VS UNEMPLOYMENT
 *This project aims to discover if therein lies a correlation (direct relationship) between Unemployment and Violent crimes. For the purpose of this analysis, violent crimes consists only of crimes involving any or all of Burglary, Rape or Murder.
-The project dataset contains data on various crimes collected over a period of 39 years, from 1976 to 2014 across all 51 states in the United States of America. It consists of 1989 rows and 14 columns  which are described below.
+The project dataset contains data on various crimes collected over a period of 39 years, from 1976 to 2014 across all 51 states in the United States of America. It consists of 1989 rows and 14 columns  which are described below*
 1. State : Contains the full name of each state in the US.
 2. State_abbr :  This column represents the abbreviated name of each of the 50 states in the US.
 3. Unemployment : Represents  the mean number of unemployed persons for each year in each state.
@@ -14,7 +14,7 @@ The project dataset contains data on various crimes collected over a period of 3
 11. Burglary: Highlights the mean value of the number of burglary cases recorded in the US for each year in each state.
 12. Larceny theft: This gives the mean value of number of larceny cases recorded in the US for each year in each state.
 13. vehicle theft: This gives the mean value of number of vehicle theft  cases recorded in the US for each year in each state.
-14. Property total: This is the sum of each of burglary, larceny theft and vehicle theft for each year and in each state.*
+14. Property total: This is the sum of each of burglary, larceny theft and vehicle theft for each year and in each state.
 
 [Here is a link to the dataset](https://www.kaggle.com/lydiavasil/violent-crime-and-unemployment-correlation)
 
